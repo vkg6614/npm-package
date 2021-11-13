@@ -1,0 +1,22 @@
+{
+  "name": "example-package",
+  "version": "0.0.1",
+  "description": "example package for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkg6614/npm-package.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "vikas0225",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkg6614/npm-package/issues"
+  },
+  "homepage": "https://github.com/vkg6614/npm-package#readme"
+}
